@@ -1,0 +1,16 @@
+## Model files
+models/*.keras
+models/*.pth
+models/*.h5
+models/*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
